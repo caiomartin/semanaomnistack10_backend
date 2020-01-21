@@ -6,7 +6,6 @@ const routes = Router()
 
 
 // METODOS HTTP: GET, POST, PUT, DELETE
-
 // TIPOS DE PARAMETROS
 // Query Params: request.query (Filtros, ordenação, paginação, ...)
 // Routes Params: request.params (Indentificar um recurso na alteração  ou remoção)
